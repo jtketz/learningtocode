@@ -16,4 +16,5 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 - No upload worked on MATLAB script for HTChROME project for GWU research
 - will upload into a private repository eventually
 
-
+### 03/09/22
+- Intalling Git Desktop (will later want to move to Git CLI
