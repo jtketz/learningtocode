@@ -10,3 +10,10 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 
 ### Starting Point (03/07/22)
 - 100 days of code & CS50
+- No upload worked on MATLAB script for HTChROME project for GWU research
+
+### 03/08/22
+- No upload worked on MATLAB script for HTChROME project for GWU research
+- will upload into a private repository eventually
+
+
