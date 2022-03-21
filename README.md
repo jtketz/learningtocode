@@ -8,3 +8,11 @@ Detailed below will be my approach and documenting my progress as I go.
 All code made available here is my own related to the contents of publically available courses that are free to access.
 This document is entirely for educational purposes. 
 This code will not be pretty and is updated as I go, no promises that any of it will work. 
+
+## Current Courses to Work through
+1. CS50 - Edx Harvard
+2a. FreeCodeCamp - Certificates (In order?)
+2b. FreeCodeCamp - Email List Tutorials
+3. RH024 Red Hat Enterprise Linux Technical Overview
+4. https://developers.google.com/machine-learning/crash-course/ml-intro
+5. 5. TBD
