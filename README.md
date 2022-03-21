@@ -15,4 +15,4 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 2b. FreeCodeCamp - Email List Tutorials
 3. RH024 Red Hat Enterprise Linux Technical Overview
 4. https://developers.google.com/machine-learning/crash-course/ml-intro
-5. 5. TBD
+5. TBD
