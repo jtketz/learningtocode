@@ -1,7 +1,5 @@
 # Tracking the first 100 Days of Learning to Code
 
-## Need to add copyright or license?
-
 ### 03/07/22
 - Starting point for 100 days of code & CS50
 
