@@ -15,4 +15,5 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 3. FreeCodeCamp - Email List Tutorials
 4. RH024 Red Hat Enterprise Linux Technical Overview
 5. https://developers.google.com/machine-learning/crash-course/ml-intro
-6. TBD
+6. Mike X Cohen Lecturelets for Neuroscience data analysis
+7. TBD
