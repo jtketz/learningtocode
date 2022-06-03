@@ -37,3 +37,9 @@
 - Back on GitHub and making commits
 - CS50 Lesson 0 stuff
 - Worked on MATLAB script for HTChROME project for GWU research
+
+### 06/05/22
+- Well that all went to crap, but attempet #2 for 100 days of code coming now.
+- Athough I have been working on MATLAB projects, I haven't been able to document or work on my own projects. 
+
+
