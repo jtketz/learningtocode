@@ -1,7 +1,7 @@
 # jtketz/learningtocode
-A public documentary of me learning to code.
-The goal is to update daily, starting with the 100 days of code challenge. 
-I am not starting from zero as I have some experience through an engineering degree or two. 
+- A public documentary of me learning how to really code.
+- The goal is to update daily, starting with the 100 days of code challenge. 
+- I am not starting from zero as I have some experience through an engineering degree or two. 
 - Even though I have this experience, I am working to become a more rounded programmer and better engineer.
 
 ## Contents and Quick Note
