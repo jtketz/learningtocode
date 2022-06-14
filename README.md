@@ -12,7 +12,7 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 
 ## Current Courses to Work through
 1. CS50 - Edx Harvard
-2. FreeCodeCamp - Certificates (In order?)
+2. FreeCodeCamp - Certificates (Python + Javascript | in order?)
 3. FreeCodeCamp - Email List Tutorials
 4. RH024 Red Hat Enterprise Linux Technical Overview
 5. https://developers.google.com/machine-learning/crash-course/ml-intro
