@@ -18,3 +18,8 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 5. https://developers.google.com/machine-learning/crash-course/ml-intro
 6. Mike X Cohen Lecturelets for Neuroscience data analysis
 7. TBD
+
+## Updated 01/01/2025
+1. Emphasis on Cybersecurity
+2. Starting from scratch and have 100 days to make serious progress
+3. Let's GO!
