@@ -22,4 +22,4 @@ This code will not be pretty and is updated as I go, no promises that any of it 
 ## Updated 01/01/2025
 1. Emphasis on Cybersecurity
 2. Starting from scratch and have 100 days to make serious progress
-3. Let's GO!
+3. Let's be disiplined - NOW
